@@ -11,7 +11,7 @@
 
 Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
 
-
+ **Information:**
 
 - 🔭 I’m currently working on  Open Source Projects.
 - 🌱 I’m currently learning  React.JS and C++.
