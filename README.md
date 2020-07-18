@@ -16,7 +16,7 @@ Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
 - 🔭 I’m currently working on  **Open Source Projects.**
 - 🌱 I’m currently learning  **React.JS and C++.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
-- 🤔 I’m looking for help with  Data Structures and DP.
+- 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to Tech.
 - 📫 Contact me at:  subodhinamdar99@gmail.com.
 - 😄 Pronouns:  he/him.
