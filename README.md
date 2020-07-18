@@ -9,7 +9,7 @@
 
 <br/>
 
-Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
+Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.~~And a Weeb.~~
 
  **Information:**
 
