@@ -19,8 +19,8 @@ Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
 - 💬 Ask me about  Anything related to **Tech.**
 - 📫 Contact me at :  **subodhinamdar99@gmail.com.**
-- 😄 Pronouns :  **he/him.**
-- ⚡ Fun fact : JavaScript >>>> TypeScript.
+- 😄 Pronouns :  **He/Him.**
+- ⚡ Fun fact : **JavaScript >>>> TypeScript.**
 
 **Languages and Tools:**  
 
