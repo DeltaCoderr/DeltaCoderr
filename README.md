@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Subodh!(AKA DeltaCoderr)
+### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
 
+<a href="https://www.instagram.com/aakashrajputofficial/">
+  <img align="left" alt="Aakash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 
 Here are some ideas to get you started:
