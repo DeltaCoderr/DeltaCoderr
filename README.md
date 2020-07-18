@@ -1,11 +1,17 @@
 ### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
 
-<a href="https://www.instagram.com/aakashrajputofficial/">
+<br/>
+<a href="https://www.instagram.com/deltacoderr/">
   <img align="left" alt="Aakash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
 
-Here are some ideas to get you started:
+<br/>
+
+Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
