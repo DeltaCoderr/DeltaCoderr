@@ -13,12 +13,12 @@ Hey, I'm Subodh Inamdar, a Web Developer, Open Source Developer from India.
 
  **Information:**
 
-- 🔭 I’m currently working on  Open Source Projects.
+- 🔭 I’m currently working on  **Open Source Projects.**
 - 🌱 I’m currently learning  React.JS and C++.
 - 👯 I’m looking to collaborate on  More Open Source Projects.
 - 🤔 I’m looking for help with  Data Structures and DP.
 - 💬 Ask me about  Anything related to Tech.
-- 📫 How to reach me:  subodhinamdar99@gmail.com.
+- 📫 Contact me at:  subodhinamdar99@gmail.com.
 - 😄 Pronouns:  he/him.
 - ⚡ Fun fact: JavaScript >>>> TypeScript.
 
