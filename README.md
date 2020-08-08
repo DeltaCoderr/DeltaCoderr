@@ -20,7 +20,7 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Open Source Developer from India.
 - 💬 Ask me about  Anything related to **Tech.**
 - 📫 Contact me at :  **subodhinamdar99@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
-- ⚡ Fun fact : **JavaScript >>>> TypeScript.**
+- ⚡ Fun fact : **JavaScript >>>> Python.**
 
 **Languages and Tools:**  
 
