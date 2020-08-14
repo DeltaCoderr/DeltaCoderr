@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Subodh! (AKA DeltaCoderr).
 
 <br/>
-<a href="https://www.instagram.com/deltacoderr/">
+<a href="https://www.instagram.com/delta_5621/">
   <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://discord.com/users/552814506070507531">
