@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://www.instagram.com/deltacoderr/">
-  <img align="left" alt="Aakash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Subodh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 ![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
