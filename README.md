@@ -48,6 +48,8 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Open Source Developer from India.
 
 
 ![DeltaCoderr's Github Stats.](https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile">
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=SudhanPlayz&theme=dracula"></div>
+
 
 
 
