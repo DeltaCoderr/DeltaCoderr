@@ -7,6 +7,9 @@
 <a href="https://discord.com/users/552814506070507531">
     <img align ="left" alt="Subodh's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
+  <a href="https://twitter.com/Delta_562">
+    <img align ="left" alt="Subodh's " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  </a>
 
 ![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
 
