@@ -17,7 +17,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png)
 
-Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer from India. ~~And a Weeb.~~
+Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
  **Information:**
 
