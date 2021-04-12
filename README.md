@@ -25,7 +25,7 @@ Hey, I'm Subodh Inamdar, a Web Developer 🚀, Back End Developer & Discord Bot 
 - 🌱 I’m currently learning  **React.JS and C++.**
 - 👯 I’m looking to collaborate on **More Open Source Projects.**
 - 🤔 I’m looking for help with  **Data Structures and DP stuff.**
-- 💬 Ask me about  Anything related to **Tech.**
+- 💬 Ask me about  Anything related to **Tech and Anime.**
 - 📫 Contact me at :  **subodhinamdar99@gmail.com.**
 - 😄 Pronouns :  **He/Him.**
 - ⚡ Fun fact : **JavaScript >>>> Python.**
