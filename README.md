@@ -11,7 +11,7 @@
     <img align ="left" alt="Subodh's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
 
-![](https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr)
+![](https://komarev.com/ghpvc/?username=deltacoderr)
 
 <br/>
 
